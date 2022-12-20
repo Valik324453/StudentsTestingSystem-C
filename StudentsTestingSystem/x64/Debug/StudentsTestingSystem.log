@@ -1,0 +1,16 @@
+﻿  Item.cpp
+C:\Users\Валик\Desktop\AdminStudentTest\Item.cpp(35,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\Валик\Desktop\AdminStudentTest\main.cpp(442,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Валик\Desktop\AdminStudentTest\main.cpp(478,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Валик\Desktop\AdminStudentTest\main.cpp(708,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  objects to file.cpp
+C:\Users\Валик\Desktop\AdminStudentTest\objects to file.cpp(11,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Валик\Desktop\AdminStudentTest\objects to file.cpp(34,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Валик\Desktop\AdminStudentTest\objects to file.cpp(55,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Result.cpp
+  Test.cpp
+C:\Users\Валик\Desktop\AdminStudentTest\Test.cpp(25,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  User.cpp
+  Generating Code...
+  StudentsTestingSystem.vcxproj -> C:\Users\Валик\Desktop\StudentsTestingSystem\x64\Debug\StudentsTestingSystem.exe
